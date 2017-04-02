@@ -5,3 +5,4 @@
 - [] Image Optimization webpack
 - [] CSS Loaders
 - [] Dynamic Code splitting
+- [] Hot module reloading
