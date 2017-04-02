@@ -1,5 +1,7 @@
-# Webpack
+# Webpack TODO list
 
 - [x] Code splitting in webpack
-- [x] Treeshaking in webpack
-- [x] Image Optimization webpack
+- [] Treeshaking in webpack
+- [] Image Optimization webpack
+- [] CSS Loaders
+- [] Dynamic Code splitting
